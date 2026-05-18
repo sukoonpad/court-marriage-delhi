@@ -187,3 +187,8 @@ For any website edits / issues → update the HTML files and redeploy. Code is c
 ---
 
 © 2026 Court Marriage Consultants Delhi. All Rights Reserved.
+
+
+## Additional Architecture Resource
+
+- `docs/ai-seo-saas-blueprint.md`: End-to-end blueprint for a real-time AI SEO project management SaaS.
